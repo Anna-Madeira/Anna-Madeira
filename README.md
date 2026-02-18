@@ -1,40 +1,58 @@
-# Olá, eu sou a Anna Julia! 👋
+#Olá! Eu sou a Anna Madeira 👋
 
-### Desenvolvedora Front-end | Analista de Sistemas | Especialista em Agilidade
+Front-End Developer (React & TypeScript)
 
-Sou uma desenvolvedora em transição de carreira, unindo minha base sólida em **Análise e Desenvolvimento de Sistemas** com a criação de interfaces modernas e eficientes. Com experiência prévia na **MC1 Tecnologia**, trago uma visão analítica para a engenharia de requisitos e domínio de fluxos ágeis.
+Desenvolvedora Front-End com experiência no desenvolvimento de aplicações web em produção, utilizando React e TypeScript.
 
----
+Atuo na implementação e manutenção de funcionalidades, integração com APIs REST, debugging de fluxos de navegação e validação de funcionalidades por meio de testes automatizados E2E.
 
-### 🛠️ Minha Stack Técnica
+Também possuo background em Análise de Sistemas, o que contribui para entendimento de regras de negócio, levantamento de requisitos e trabalho colaborativo em metodologias ágeis.
 
-- **Linguagens & Frameworks:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3.
-- **Estilização:** Tailwind CSS, Material UI.
-- **Ferramentas & Integrações:** Axios (APIs REST), Yup (Validação), Git.
-- **Gestão & Agilidade:** Scrum, Kanban, Jira, Azure Boards.
+⸻
 
----
+🛠️ Stack Técnica
 
-### 🚀 Projetos em Destaque
+Front-End:
+React • TypeScript • JavaScript (ES6+) • HTML5 • CSS3
 
-* **[Dashboard de Gestão](https://github.com/Anna-Madeira/project):** Interface administrativa completa com React, TS e Material UI.
-* **[Madeira Advocacia](https://github.com/Anna-Madeira/madeira-advocacia):** Landing Page profissional focada em performance e Tailwind CSS.
-* **[Weather App](https://github.com/Anna-Madeira/weather-project):** Consulta meteorológica em tempo real consumindo APIs externas.
+Estilização:
+Tailwind CSS • Material UI
 
----
+Integrações & Ferramentas:
+APIs REST • Axios • Playwright • Git
 
-### 📊 Certificações
-- **Scrum Foundation Professional Certificate** (CertiProf).
-- **Kanban Essentials Professional Certificate** (CertiProf).
+Metodologias:
+Scrum • Kanban
 
----
+⸻
 
-### 📫 Vamos nos conectar?
+🚀 Projetos em Destaque
 
-- **LinkedIn:** [linkedin.com/in/anna-madeira](https://br.linkedin.com/in/anna-madeira) 
-- **E-mail:** [anna.madeira@icloud.com](mailto:anna.madeira@icloud.com) 
-- **Idiomas:** Português (Nativo), Inglês e Espanhol (Intermediários).
+🔹 Dashboard de Gestão￼
+Interface administrativa desenvolvida com React e TypeScript, com componentes reutilizáveis, validação de formulários e organização de rotas.
 
----
+🔹 Madeira Advocacia￼
+Landing page otimizada em performance utilizando Tailwind CSS e boas práticas de responsividade.
 
-*"Transformando requisitos técnicos em experiências digitais de alto impacto."*
+🔹 Weather App￼
+Aplicação que consome API externa para exibição de dados meteorológicos em tempo real.
+
+⸻
+
+📌 O que você vai encontrar aqui
+	•	Projetos em React com organização de componentes
+	•	Consumo de APIs REST
+	•	Gerenciamento de estado e rotas
+	•	Práticas de responsividade e UX
+	•	Estudos e experimentos com front-end
+
+⸻
+
+📫 Contato
+
+💼 LinkedIn: https://br.linkedin.com/in/anna-madeira
+📧 E-mail: anna.madeira@icloud.com
+
+⸻
+
+💡 Sempre aberta a trocar ideias sobre desenvolvimento front-end e tecnologia.
