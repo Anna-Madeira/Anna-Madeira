@@ -1,4 +1,4 @@
-#Olá! Eu sou a Anna Madeira 👋
+Olá! Eu sou a Anna Madeira 👋
 
 Front-End Developer (React & TypeScript)
 
